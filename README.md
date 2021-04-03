@@ -6,6 +6,7 @@ When you press the Genearte Random Number button, it will generate a random numb
 
 Here is the youtube video which shows the app runnning: 
 
-<iframe width="1520" height="586" src="https://www.youtube.com/embed/biZROLsMlv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/biZROLsMlv0
+
 
 
