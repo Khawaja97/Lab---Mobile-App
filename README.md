@@ -2,7 +2,7 @@
 
 This is my first app built using Android Studio. The code is written in Java. 
 
-When you press the Genearte Random Number button, it will generate a random number from 0 to 9.
+When you press the Genearte Random Number button, it will generate a random number between 0 and 9.
 
 Here is the youtube video which shows the app runnning: 
 
